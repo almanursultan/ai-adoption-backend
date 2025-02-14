@@ -39,17 +39,20 @@
         {
           "tool": "Microsoft 365 Copilot for Marketing",
           "description": "Assists in optimizing campaigns, automating tasks, and improving decision-making processes.",
-          "url": "https://www.microsoft.com/microsoft-365/copilot"
+          "url": "https://www.microsoft.com/microsoft-365/copilot",
+          "logo_url": "https://cdn.freelogovectors.net/wp-content/uploads/2024/02/copilot_logo-freelogovectors.net_.png"
         },
         {
           "tool": "Dynamics 365 Marketing",
           "description": "Provides AI-driven insights to personalize customer journeys and enhance engagement.",
-          "url": "https://dynamics.microsoft.com/marketing"
+          "url": "https://dynamics.microsoft.com/marketing",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "Microsoft Advertising AI",
           "description": "Leverages AI to optimize ad campaigns and target the right audience effectively.",
-          "url": "https://about.ads.microsoft.com"
+          "url": "https://about.ads.microsoft.com",
+          "logo_url": "https://www.cleanpng.com/png-logo-kraket-advertising-company-brand-2-iab-impuls-6688398/"
         }
       ]
     },
@@ -61,17 +64,20 @@
         {
           "tool": "Microsoft 365 Copilot",
           "description": "Integrates AI assistance across Microsoft 365 applications to automate routine tasks and increase productivity.",
-          "url": "https://www.microsoft.com/microsoft-365/copilot"
+          "url": "https://www.microsoft.com/microsoft-365/copilot",
+          "logo_url": "https://cdn.freelogovectors.net/wp-content/uploads/2024/02/copilot_logo-freelogovectors.net_.png"
         },
         {
           "tool": "Azure AI",
           "description": "Offers a suite of AI services for developers and data scientists to build and manage AI solutions.",
-          "url": "https://azure.microsoft.com/en-us/products/ai-services"
+          "url": "https://azure.microsoft.com/en-us/products/ai-services",
+          "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png"
         },
         {
           "tool": "Microsoft Defender for Cloud",
           "description": "Uses AI-powered security monitoring to detect and prevent cyber threats.",
-          "url": "https://azure.microsoft.com/en-us/products/defender-for-cloud"
+          "url": "https://azure.microsoft.com/en-us/products/defender-for-cloud",
+          "logo_url": "https://alpenshield.io/assets/images/Microsoft%20Defender%20for%20Cloud.png"
         }
       ]
     },
@@ -83,17 +89,20 @@
         {
           "tool": "Microsoft 365 Copilot for Finance",
           "description": "Utilizes AI to streamline financial operations, including data reconciliation and anomaly detection.",
-          "url": "https://www.microsoft.com/microsoft-365/copilot"
+          "url": "https://www.microsoft.com/microsoft-365/copilot",
+          "logo_url": "https://cdn.freelogovectors.net/wp-content/uploads/2024/02/copilot_logo-freelogovectors.net_.png"
         },
         {
           "tool": "Dynamics 365 Finance",
           "description": "Provides AI-driven insights to monitor financial performance and automate financial processes.",
-          "url": "https://dynamics.microsoft.com/finance"
+          "url": "https://dynamics.microsoft.com/finance",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "Power BI AI Insights",
           "description": "Uses AI to uncover patterns and trends in financial data for better decision-making.",
-          "url": "https://powerbi.microsoft.com/en-us/ai"
+          "url": "https://www.microsoft.com/en-us/power-platform/products/power-bi",
+          "logo_url": "https://banner2.cleanpng.com/20190206/ghr/kisspng-power-bi-logo-business-intelligence-font-data-datacarrot-bespoke-development-service-1713908033573.webp"
         }
       ]
     },
@@ -105,17 +114,20 @@
         {
           "tool": "Microsoft 365 Copilot in HR",
           "description": "Simplifies access to data and improves the efficiency of HR processes.",
-          "url": "https://www.microsoft.com/microsoft-365/copilot"
+          "url": "https://www.microsoft.com/microsoft-365/copilot",
+          "logo_url": "https://cdn.freelogovectors.net/wp-content/uploads/2024/02/copilot_logo-freelogovectors.net_.png"
         },
         {
           "tool": "Dynamics 365 Human Resources",
           "description": "Optimizes HR programs, including employee onboarding and performance tracking.",
-          "url": "https://dynamics.microsoft.com/human-resources"
+          "url": "https://dynamics.microsoft.com/human-resources",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "LinkedIn Talent Solutions",
           "description": "Uses AI-powered recommendations to find and attract top talent.",
-          "url": "https://business.linkedin.com/talent-solutions"
+          "url": "https://business.linkedin.com/talent-solutions",
+          "logo_url": "https://americanstaffing.net/wp-content/uploads/2021/09/linkedin-talent-solutions.png"
         }
       ]
     },
@@ -127,17 +139,20 @@
         {
           "tool": "Dynamics 365 Sales with Copilot",
           "description": "Enhances sales processes by providing AI assistance, such as drafting email replies and summarizing meetings.",
-          "url": "https://dynamics.microsoft.com/sales"
+          "url": "https://dynamics.microsoft.com/sales",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "Dynamics 365 Customer Service",
           "description": "Utilizes AI to improve customer interactions and support experiences.",
-          "url": "https://dynamics.microsoft.com/customer-service"
+          "url": "https://dynamics.microsoft.com/customer-service",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "Microsoft Viva Sales",
           "description": "AI-powered insights for sales teams to improve customer relationships and close deals faster.",
-          "url": "https://www.microsoft.com/microsoft-viva/sales"
+          "url": "https://www.microsoft.com/microsoft-viva/sales",
+          "logo_url": "https://www.theinformteam.com/wp-content/uploads/2023/04/Introduction-to-Microsoft-Viva_banner.png"
         }
       ]
     },
@@ -149,17 +164,20 @@
         {
           "tool": "Dynamics 365 Supply Chain Management",
           "description": "Employs AI to streamline planning, production, warehouse, and transportation operations.",
-          "url": "https://dynamics.microsoft.com/supply-chain-management"
+          "url": "https://dynamics.microsoft.com/supply-chain-management",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "Power Automate",
           "description": "Automates workflows between apps and services to synchronize files, get notifications, and collect data.",
-          "url": "https://powerautomate.microsoft.com"
+          "url": "https://powerautomate.microsoft.com",
+          "logo_url": "https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png"
         },
         {
           "tool": "Microsoft Cloud for Manufacturing",
           "description": "AI-driven solutions for improving supply chain visibility and factory operations.",
-          "url": "https://www.microsoft.com/en-us/industry/manufacturing"
+          "url": "https://www.microsoft.com/en-us/industry/manufacturing",
+          "logo_url": "https://miro.medium.com/v2/resize:fit:640/0*K790UCLMMY0OXqxM.png"
         }
       ]
     },
@@ -176,12 +194,14 @@
         {
           "tool": "Dynamics 365 Healthcare Accelerator",
           "description": "Offers AI-driven solutions tailored for healthcare providers to enhance patient care.",
-          "url": "https://dynamics.microsoft.com/healthcare"
+          "url": "https://dynamics.microsoft.com/healthcare",
+          "logo_url": "https://syncari.com/wp-content/uploads/2022/04/MS-Dynamics-365-Logo.png"
         },
         {
           "tool": "Microsoft Cloud for Healthcare",
           "description": "AI-powered analytics and patient engagement tools for healthcare providers.",
-          "url": "https://www.microsoft.com/en-us/industry/health"
+          "url": "https://www.microsoft.com/en-us/industry/health",
+          "logo_url": "https://miro.medium.com/v2/resize:fit:640/0*K790UCLMMY0OXqxM.png"
         }
       ]
     }
