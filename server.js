@@ -1,6 +1,7 @@
 import express from "express";
 import cors from "cors";
 import quizRoutes from "./src/routes/quizRoutes.js";
+import guideRoutes from "./src/routes/guideRoutes.js";
 import path from "path";
 
 const app = express();
@@ -14,6 +15,7 @@ app.get("/", (req, res) => {
 });
 
 app.use("/api", quizRoutes);
+app.use("/api", guideRoutes);
 
 app.listen(PORT, () =>
   console.log(`Server running on http://localhost:${PORT}`)
