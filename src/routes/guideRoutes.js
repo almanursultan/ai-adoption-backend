@@ -3,6 +3,6 @@ import { getGuideDetails } from "../controllers/guideController.js";
 
 const router = express.Router();
 
-router.get("/guides/:toolName", getGuideDetails);
+router.get("/guide/:toolName", getGuideDetails);
 
 export default router;
