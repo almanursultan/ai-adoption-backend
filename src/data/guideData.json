@@ -1,0 +1,166 @@
+{
+  "guides": [
+    {
+      "name": "microsoft-365-copilot",
+      "display_name": "Microsoft 365 Copilot",
+      "description": "AI-powered assistant that integrates with Microsoft 365 applications to boost productivity and automate tasks.",
+      "problem_solved": "Employees struggle with repetitive tasks and lack efficient ways to automate workflows.",
+      "real_world_example": "A finance team used Microsoft 365 Copilot to automate financial reports, reducing manual work by 40%.",
+      "link": "https://www.microsoft.com/microsoft-365/copilot",
+      "resources": [
+        {
+          "title": "Microsoft 365 Copilot Overview",
+          "url": "https://www.microsoft.com/microsoft-365/copilot"
+        },
+        {
+          "title": "How to Use Copilot for Work",
+          "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot"
+        }
+      ]
+    },
+    {
+      "name": "dynamics-365",
+      "display_name": "Dynamics 365",
+      "description": "AI-driven business applications for sales, marketing, customer service, and supply chain management.",
+      "problem_solved": "Businesses struggle with managing customer relationships and optimizing workflows.",
+      "real_world_example": "A logistics company implemented Dynamics 365 to optimize their supply chain, reducing delays by 30%.",
+      "link": "https://dynamics.microsoft.com",
+      "resources": [
+        {
+          "title": "Getting Started with Dynamics 365",
+          "url": "https://dynamics.microsoft.com/en-us/"
+        },
+        {
+          "title": "Best Practices for Business AI",
+          "url": "https://learn.microsoft.com/en-us/dynamics365/"
+        }
+      ]
+    },
+    {
+      "name": "microsoft-advertising-ai",
+      "display_name": "Microsoft Advertising AI",
+      "description": "AI-driven advertising solution that optimizes ad performance and audience targeting.",
+      "problem_solved": "Marketers struggle to create personalized ad campaigns that engage their audience.",
+      "real_world_example": "An e-commerce company used Microsoft Advertising AI to target customers with dynamic ads, increasing conversions by 25%.",
+      "link": "https://about.ads.microsoft.com",
+      "resources": [
+        {
+          "title": "Introduction to Microsoft Advertising AI",
+          "url": "https://about.ads.microsoft.com"
+        },
+        {
+          "title": "Using AI for Ad Targeting",
+          "url": "https://learn.microsoft.com/en-us/advertising/"
+        }
+      ]
+    },
+    {
+      "name": "azure-ai",
+      "display_name": "Azure AI",
+      "description": "Cloud-based AI services for building machine learning and AI-powered applications.",
+      "problem_solved": "Developers and businesses struggle with deploying AI models efficiently.",
+      "real_world_example": "A healthcare provider used Azure AI to automate medical image analysis, improving diagnosis accuracy by 30%.",
+      "link": "https://azure.microsoft.com/en-us/products/ai-services",
+      "resources": [
+        {
+          "title": "Azure AI Overview",
+          "url": "https://azure.microsoft.com/en-us/ai"
+        },
+        {
+          "title": "Deploying AI Models with Azure",
+          "url": "https://learn.microsoft.com/en-us/azure/machine-learning/"
+        }
+      ]
+    },
+    {
+      "name": "microsoft-defender",
+      "display_name": "Microsoft Defender",
+      "description": "AI-powered security platform for protecting businesses from cyber threats.",
+      "problem_solved": "Companies face increasing cybersecurity threats and need proactive protection.",
+      "real_world_example": "A financial institution used Microsoft Defender to detect and prevent phishing attacks, reducing security breaches by 40%.",
+      "link": "https://azure.microsoft.com/en-us/products/defender-for-cloud",
+      "resources": [
+        {
+          "title": "Microsoft Defender Security Guide",
+          "url": "https://security.microsoft.com/"
+        },
+        {
+          "title": "Best Practices for Cybersecurity",
+          "url": "https://learn.microsoft.com/en-us/azure/security/"
+        }
+      ]
+    },
+    {
+      "name": "power-bi",
+      "display_name": "Power BI",
+      "description": "Business intelligence tool that enables data visualization and reporting with AI-powered insights.",
+      "problem_solved": "Companies struggle to analyze and interpret large datasets efficiently.",
+      "real_world_example": "A retail chain used Power BI to analyze customer purchasing behavior, improving sales strategies by 20%.",
+      "link": "https://powerbi.microsoft.com/en-us/",
+      "resources": [
+        {
+          "title": "Power BI Overview",
+          "url": "https://powerbi.microsoft.com/en-us/"
+        },
+        {
+          "title": "How to Build AI-Powered Reports",
+          "url": "https://learn.microsoft.com/en-us/power-bi/"
+        }
+      ]
+    },
+    {
+      "name": "linkedin-talent",
+      "display_name": "LinkedIn Talent",
+      "description": "AI-driven recruitment solution that helps HR teams find and attract top talent.",
+      "problem_solved": "Recruiters struggle to identify and hire the best candidates efficiently.",
+      "real_world_example": "A tech company used LinkedIn Talent AI to automate candidate screening, reducing hiring time by 50%.",
+      "link": "https://business.linkedin.com/talent-solutions",
+      "resources": [
+        {
+          "title": "Getting Started with LinkedIn Talent",
+          "url": "https://business.linkedin.com/talent-solutions"
+        },
+        {
+          "title": "AI in Recruiting",
+          "url": "https://learn.microsoft.com/en-us/linkedin/"
+        }
+      ]
+    },
+    {
+      "name": "microsoft-viva-sales",
+      "display_name": "Microsoft Viva Sales",
+      "description": "AI-powered insights for sales teams to enhance customer relationships and increase conversions.",
+      "problem_solved": "Sales teams lack insights into customer behavior, making it hard to close deals.",
+      "real_world_example": "A software company used Microsoft Viva Sales to analyze customer interactions, increasing deal closures by 35%.",
+      "link": "https://www.microsoft.com/microsoft-viva/sales",
+      "resources": [
+        {
+          "title": "Introduction to Microsoft Viva Sales",
+          "url": "https://www.microsoft.com/microsoft-viva/sales"
+        },
+        {
+          "title": "Sales AI Best Practices",
+          "url": "https://learn.microsoft.com/en-us/sales-ai/"
+        }
+      ]
+    },
+    {
+      "name": "power-automate",
+      "display_name": "Power Automate",
+      "description": "A workflow automation tool that connects apps, automates tasks, and improves efficiency across business processes.",
+      "problem_solved": "Many teams struggle with repetitive, time-consuming manual workflows that reduce productivity.",
+      "real_world_example": "A finance team used Power Automate to integrate AI assistance across Microsoft 365 applications, automating invoice approvals and saving 20 hours per week.",
+      "link": "https://powerautomate.microsoft.com",
+      "resources": [
+        {
+          "title": "Getting Started with Power Automate",
+          "url": "https://powerautomate.microsoft.com"
+        },
+        {
+          "title": "How to Build Automated Workflows",
+          "url": "https://learn.microsoft.com/en-us/power-automate/"
+        }
+      ]
+    }
+  ]
+}
